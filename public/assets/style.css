@@ -1,0 +1,34 @@
+body{
+    height:100%;
+  }
+  .bottomInput {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 3rem;
+    background-color: #efefef;
+    /*text-align: center;*/
+  }
+  
+  .headerChat {
+    position: fixed;
+    top:0;
+    width: 80%;
+    padding: 3rem;
+    background-color: #efefef;
+    /*text-align: center;*/
+  }
+  
+  .bottomInput textarea.formInput{
+      resize: none;
+      width: 100%;
+  }
+  
+  .listChat{
+    margin-top: 20%;
+    border: 2px solid grey;
+      height: 400px;
+      overflow-y: scroll;
+  }
+  
