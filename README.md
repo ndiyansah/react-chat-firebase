@@ -1,5 +1,4 @@
 Hi! Handi here!
-//update
 
 This is example chat app using React and Firebase.
 
